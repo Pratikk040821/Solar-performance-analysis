@@ -36,7 +36,7 @@ n/Overall%20Loss%20Graph.png)
 ![DC Loss](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/DC_Loss_graph.png)
 
 ### 🔹 Inverter Loss Graph
-![Inverter Loss](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/Inverter_Loss_Graph.png)
+![Inverter Loss](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/Inverter%20Loss%20Graph.png)
 
 ### 🔹 AC Loss Graph
 ![AC Loss](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/AC%20Loss%20Graph.png)
