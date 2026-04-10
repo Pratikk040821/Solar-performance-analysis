@@ -25,3 +25,26 @@ This repository contains real-time solar plant performance analysis based on act
 
 ## Objective:
 To improve solar plant efficiency by analyzing real operational data and identifying actionable improvements.
+
+## 📊 Performance Graphs
+
+### 🔹 PR & CUF Graph
+![PR & CUF](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/PR_Chart.png)
+n/Overall%20Loss%20Graph.png)
+
+### 🔹 DC Loss Graph
+![DC Loss](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/DC_Loss_graph.png)
+
+### 🔹 Inverter Loss Graph
+![Inverter Loss](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/Inverter_Loss_Graph.png)
+
+### 🔹 AC Loss Graph
+![AC Loss](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/AC%20Loss%20Graph.png)
+
+### 🔹 Transmission Line Loss Graph
+![T.L. Loss](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/T.L.%20Line%20Loss%20Graph.png)
+
+### 🔹 Overall Loss Graph
+(Includes DC Loss, Inverter Loss, AC Loss, and Transmission Line Loss)
+![Overall Loss](https://github.com/Pratikk040821/Solar-performance-analysis/raw/main/Overall%20Loss%20Graph.png)
+
